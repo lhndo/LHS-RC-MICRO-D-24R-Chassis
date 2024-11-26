@@ -30,6 +30,9 @@ Inspired by the micro RC scene (Kyosho) and the aftermarket drift chassis**
 - 10:1 Gearbox Ratio
 - 180 DC Motor (support for 130 and other motor types)
 - One size up electronics
+- Wheelbase: 110mm  
+- Width Front: 84mm Rear: 87mm
+- Rims: 22mm OD  
 
 
 
