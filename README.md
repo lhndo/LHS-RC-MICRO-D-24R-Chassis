@@ -27,8 +27,8 @@ Inspired by the micro RC scene (Kyosho) and the aftermarket drift chassis**
 - High steering angle suitable for drifting setups
 - RWD locked differential
 - Adjustable suspension geometry: Shocks, Toe, Camber, Caster, Ackerman
-- 10:1 Gearbox Ratio
-- 180 DC Motor (support for 130 and other motor types)
+- 10:1 or 6:1 Gearbox Ratios
+- 180 or 130 DC Motor
 - One size up electronics
 - Wheelbase: 110mm  
 - Width Front: 84mm Rear: 87mm
