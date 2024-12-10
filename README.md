@@ -15,6 +15,10 @@
 
 ![Image of LHS RC ](assets/lhs-rc.png)  
 
+<p align="center"> <strong>
+<a href="https://www.youtube.com/watch?v=F2AEOJvZx4s">VIDEO</a>
+</p>
+
 **The LHS RC MICRO-D 24R Chassis is an adjustable 1:24 scale 3D printed RC chassis using plain common hardware.
 Inspired by the micro RC scene (Kyosho) and the aftermarket drift chassis**
 
