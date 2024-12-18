@@ -15,6 +15,10 @@
 
 ![Image of LHS RC ](assets/lhs-rc.png)  
 
+<p align="center"> <strong>
+<a href="https://www.youtube.com/watch?v=F2AEOJvZx4s">VIDEO</a>
+</p>
+
 **The LHS RC MICRO-D 24R Chassis is an adjustable 1:24 scale 3D printed RC chassis using plain common hardware.
 Inspired by the micro RC scene (Kyosho) and the aftermarket drift chassis**
 
@@ -27,8 +31,8 @@ Inspired by the micro RC scene (Kyosho) and the aftermarket drift chassis**
 - High steering angle suitable for drifting setups
 - RWD locked differential
 - Adjustable suspension geometry: Shocks, Toe, Camber, Caster, Ackerman
-- 10:1 Gearbox Ratio
-- 180 DC Motor (support for 130 and other motor types)
+- 10:1 or 6:1 Gearbox Ratios
+- 180 or 130 DC Motor
 - One size up electronics
 - Wheelbase: 110mm  
 - Width Front: 84mm Rear: 87mm
